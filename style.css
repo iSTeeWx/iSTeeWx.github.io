@@ -1,0 +1,25 @@
+body {
+    background-color: #121212;
+    margin: 0px;
+}
+
+.header {
+    padding: 1rem;
+    background-color: #380f5c;
+}
+
+.header-text {
+    margin: 0px;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    font-size: x-large;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.about-me-text {
+    color: #6619a8;
+    padding-left: 1rem;
+    max-width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
